@@ -5,7 +5,6 @@
 - *KCL 配置编程语言(Rust): https://github.com/KusionStack/KCLVM*
 - *凹语言™: https://github.com/wa-lang/wa*
 
-----
 
 原先的 gopl-zh 因为[DMCA](https://github.com/github/dmca/blob/master/2016-02-03-TheGoProgrammingLanguage.md)问题已经删除，新的项目已经转为私有仓库，但是这里依然可以接收Issue提交。
 
