@@ -5,3 +5,13 @@
 // 原版官网: http://gopl.io
 //
 package gopl_zh
+'llllllllllllllllllllllll'
+
+k'k
+k
+'k';k;'
+;'k
+;'k
+;k'
+;'k
+
