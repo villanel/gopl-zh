@@ -26,14 +26,7 @@
 
 ![](https://chai2010.cn/advanced-go-programming-book/weixin-guanggu-coder-logo.png)
 
-加入微信群: 公众号底部菜单扫码进入
-
-## 常见缩写
-
-- gopl: 《The Go Programming Language》, http://gopl.io/
-- gopl-zh: gopl 的中文版本，https://github.com/golang-china/gopl-zh
-- D&K: gopl的作者 Alan A. A. Donovan · Brian W. Kernighan
-
+加入微信群: 公众号底部菜
 ## 镜像列表
 
 - https://gopl-zh.github.io
