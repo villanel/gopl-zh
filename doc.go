@@ -10,8 +10,3 @@ package gopl_zh
 k'k
 k
 'k';k;'
-;'k
-;'k
-;k'
-;'k
-
